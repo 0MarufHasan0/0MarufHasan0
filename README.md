@@ -1,26 +1,28 @@
 <div align="center">
 
+<div align="center">
+
 # 👋 Hi, I'm **Maruf Hasna**
 
-### 💻 Frontend Web Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Always+Learning+%7C+Always+Building" alt="Typing SVG">
+
+</div>
+
+### 💻 Frontend Web Developer | JavaScript • React • Next.js • TypeScript
+
+![banner](https://github.com/user-attachments/assets/e4e8875b-b5fb-4655-9de1-b0634ae1217c)
 
 <p>
   <a href="https://www.linkedin.com/in/md-maruf-hasann/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/marufhasannnn">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://www.instagram.com/maruf_hasan.0">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-
-<img src="./maruf-profile-banner.png" alt="Maruf Hasna - Frontend Web Developer" width="100%">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer;JavaScript+%7C+React+%7C+Next.js;TypeScript+%7C+Tailwind+CSS;Always+Learning+%7C+Always+Building" alt="Typing animation">
 
 </div>
 
@@ -28,147 +30,124 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend Web Developer** focused on building modern, responsive, accessible, and user-friendly web applications.
+I'm a **Frontend Web Developer** who enjoys building modern, responsive, and user-friendly web applications.
 
-I enjoy turning ideas and designs into clean interfaces using **JavaScript, React, Next.js, and TypeScript**. I also work with modern UI and authentication tools such as **Tailwind CSS, HeroUI, DaisyUI, and Better Auth**.
+I mainly work with **JavaScript, React, Next.js, and TypeScript**, and I enjoy turning ideas and designs into clean, functional web experiences.
 
-- 🔭 Building real-world frontend projects
-- ⚛️ React & Next.js focused
-- 🟦 TypeScript learner and daily user
-- 🎨 Passionate about clean UI and responsive design
-- 🧩 Interested in reusable components and scalable frontend architecture
-- 🚀 Always learning, building, and improving
+I'm continuously improving my skills by building real-world projects and exploring modern frontend tools such as **Better Auth, Tailwind CSS, HeroUI, and DaisyUI**.
+
+> 🚀 **My goal:** Build clean interfaces, write maintainable code, and keep learning every day.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5">
-<img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3">
-<img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript">
-<img src="https://skillicons.dev/icons?i=typescript" height="55" alt="TypeScript">
-<img src="https://skillicons.dev/icons?i=react" height="55" alt="React">
-<img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="Next.js">
-
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
 </p>
 
-### 🎨 UI / Styling
+### 🎨 UI & Styling
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="Tailwind CSS">
-
-<img src="https://img.shields.io/badge/HeroUI-111827?style=for-the-badge&logoColor=white" height="55" alt="HeroUI">
-
-<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" height="55" alt="DaisyUI">
-
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logoColor=white" alt="HeroUI">
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI">
 </p>
 
-### 🔐 Backend / Database / Auth
+### 🔐 Authentication & Backend
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="Node.js">
-
-<img src="https://skillicons.dev/icons?i=express" height="55" alt="Express.js">
-
-<img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="MongoDB">
-
-<img src="https://img.shields.io/badge/Better_Auth-111827?style=for-the-badge&logoColor=white" height="55" alt="Better Auth">
-
+<p>
+  <img src="https://img.shields.io/badge/Better_Auth-111827?style=for-the-badge&logoColor=white" alt="Better Auth">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
 ### 🔧 Tools
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git" height="55" alt="Git">
-
-<img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub">
-
-<img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code">
-
-<img src="https://skillicons.dev/icons?i=postman" height="55" alt="Postman">
-
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
 ---
 
-## 🚀 What I Build
+## 📌 What I Do
 
-<table>
-<tr>
-
-<td width="50%">
-
-### 🌐 Modern Web Interfaces
-
-Responsive layouts, landing pages, dashboards, cards, forms, navigation, and reusable UI components.
-
-</td>
-
-<td width="50%">
-
-### ⚛️ React & Next.js Apps
-
-Interactive applications with component-based architecture, routing, data fetching, and modern Next.js patterns.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🎨 UI Development
-
-Clean and polished interfaces using Tailwind CSS, HeroUI, DaisyUI, and responsive design principles.
-
-</td>
-
-<td width="50%">
-
-### 🔐 Authentication
-
-Authentication flows and protected experiences using Better Auth and modern web application patterns.
-
-</td>
-
-</tr>
-</table>
+- 🌐 Build responsive and modern web interfaces
+- ⚛️ Develop React and Next.js applications
+- 🧩 Create reusable UI components
+- 🛡️ Implement authentication with Better Auth
+- 🎨 Build polished interfaces with Tailwind CSS, HeroUI, and DaisyUI
+- 📱 Focus on responsive design and good user experience
+- 🧠 Continuously improve JavaScript and TypeScript skills
+- 🚀 Turn ideas into real-world web projects
 
 ---
 
-## 🧠 Currently Learning & Improving
+## 📊 GitHub Stats
 
-```text
-TypeScript        ███████████████████░░
-Next.js           ███████████████████░░
-React             ████████████████████░
-UI / UX           ██████████████████░░░
-Backend           ███████████████░░░░░░
-```
-📈 GitHub
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=0MarufHasan0&theme=tokyo-night&hide_border=true&area=true" alt="Maruf Hasna GitHub Activity Graph" width="100%">
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=0MarufHasan0&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"> </div>
-
-🤝 Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/md-maruf-hasann/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.facebook.com/marufhasannnn"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> </a> <a href="https://www.instagram.com/maruf_hasan.0"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> </div>
 <div align="center">
-⚡ Clean Code • Modern UI • Better User Experience
 
-"Always learning. Always building. Always improving."
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0MarufHasan0&theme=tokyonight" alt="GitHub Profile Details">
 
-<br>
+</div>
 
-⭐ Thanks for visiting my profile!
+---
 
-</div> ```
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=0MarufHasan0&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/md-maruf-hasann/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.facebook.com/marufhasannnn">
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+
+<a href="https://www.instagram.com/maruf_hasan.0">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=0MarufHasan0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Keep learning. Keep building. Keep improving."
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
