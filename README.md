@@ -41,7 +41,7 @@ I'm continuously improving my skills by building real-world projects and explori
 ---
 
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <i>Technologies & tools I use to build modern, responsive and scalable web applications.</i>
@@ -181,7 +181,5 @@ I'm continuously improving my skills by building real-world projects and explori
 <div align="center">
 
 ### 💡 "Keep learning. Keep building. Keep improving."
-
-**Thanks for visiting my profile! 🚀**
 
 </div>
