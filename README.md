@@ -43,59 +43,44 @@ I'm continuously improving my skills by building real-world projects and explori
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+> Technologies and tools I use to build modern, responsive, and scalable web applications.
+
+### 🎨 Frontend Development
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5">
-<img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3">
-<img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript">
-<img src="https://skillicons.dev/icons?i=typescript" height="55" alt="TypeScript">
-<img src="https://skillicons.dev/icons?i=react" height="55" alt="React">
-<img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="Next.js">
-
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="55" alt="TypeScript" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="React" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="Next.js" title="Next.js"/>
 </p>
 
-### 🎨 UI / Styling
+### 🎨 UI & Styling
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="Tailwind CSS">
-
-<img src="https://img.shields.io/badge/HeroUI-111827?style=for-the-badge&logoColor=white" height="55" alt="HeroUI">
-
-<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" height="55" alt="DaisyUI">
-
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/HeroUI-111827?style=for-the-badge&logoColor=white" height="55" alt="HeroUI" title="HeroUI"/>
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" height="55" alt="DaisyUI" title="DaisyUI"/>
 </p>
 
-### 🔐 Backend / Database / Auth
+### ⚙️ Backend & Database
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="Node.js">
-
-<img src="https://skillicons.dev/icons?i=express" height="55" alt="Express.js">
-
-<img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="MongoDB">
-
-<img src="https://img.shields.io/badge/Better_Auth-111827?style=for-the-badge&logoColor=white" height="55" alt="Better Auth">
-
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="Node.js" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="55" alt="Express.js" title="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="MongoDB" title="MongoDB"/>
+  <img src="https://img.shields.io/badge/Better_Auth-111827?style=for-the-badge&logoColor=white" height="55" alt="Better Auth" title="Better Auth"/>
 </p>
 
-### 🔧 Tools
+### 🛠️ Development Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git" height="55" alt="Git">
-
-<img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub">
-
-<img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code">
-
-<img src="https://skillicons.dev/icons?i=postman" height="55" alt="Postman">
-
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="55" alt="Postman" title="Postman"/>
 </p>
-
 
 
 ---
