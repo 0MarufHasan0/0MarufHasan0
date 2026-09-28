@@ -99,7 +99,7 @@ I'm continuously improving my skills by building real-world projects and explori
 ### 🛠️ Tools & Workflow
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="55" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" height="55" />
 </p>
 
 <p align="center">
@@ -109,7 +109,7 @@ I'm continuously improving my skills by building real-world projects and explori
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,github,vscode" />
 </p>
 
 
