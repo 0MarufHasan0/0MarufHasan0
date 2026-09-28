@@ -41,45 +41,75 @@ I'm continuously improving my skills by building real-world projects and explori
 ---
 
 
-## 🛠️ Tech Stack
-
-> Technologies and tools I use to build modern, responsive, and scalable web applications.
-
-### 🎨 Frontend Development
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5" title="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3" title="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=typescript" height="55" alt="TypeScript" title="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=react" height="55" alt="React" title="React"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="Next.js" title="Next.js"/>
+  <i>Technologies & tools I use to build modern, responsive and scalable web applications.</i>
 </p>
 
-### 🎨 UI & Styling
+<br>
+
+### ⚡ Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/HeroUI-111827?style=for-the-badge&logoColor=white" height="55" alt="HeroUI" title="HeroUI"/>
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" height="55" alt="DaisyUI" title="DaisyUI"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" height="55" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+</p>
+
+<br>
+
+### 🎨 UI / Styling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HeroUI-111827?style=for-the-badge&logoColor=white" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" height="55" />
+</p>
+
+<p align="center">
+  <sub>Responsive Design • Modern UI • Component-Based Development</sub>
+</p>
+
+<br>
 
 ### ⚙️ Backend & Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="Node.js" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express" height="55" alt="Express.js" title="Express.js"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="MongoDB" title="MongoDB"/>
-  <img src="https://img.shields.io/badge/Better_Auth-111827?style=for-the-badge&logoColor=white" height="55" alt="Better Auth" title="Better Auth"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Better_Auth-111827?style=for-the-badge&logoColor=white" height="55" />
 </p>
 
-### 🛠️ Development Tools
+<p align="center">
+  <sub>REST APIs • Server-Side Development • Database Integration • Authentication</sub>
+</p>
+
+<br>
+
+### 🛠️ Tools & Workflow
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="55" alt="Postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="55" />
+</p>
+
+<p align="center">
+  <sub>Version Control • API Testing • Development Environment</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,postman" />
 </p>
 
 
