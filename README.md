@@ -92,9 +92,7 @@ I'm continuously improving my skills by building real-world projects and explori
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0MarufHasan0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Maruf Hasna GitHub Stats">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0MarufHasan0&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0MarufHasan0&theme=tokyonight" alt="GitHub Profile Details">
 
 </div>
 
