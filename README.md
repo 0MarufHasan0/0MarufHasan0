@@ -1,6 +1,12 @@
 <div align="center">
 
+<div align="center">
+
 # 👋 Hi, I'm **Maruf Hasna**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Always+Learning+%7C+Always+Building" alt="Typing SVG">
+
+</div>
 
 ### 💻 Frontend Web Developer | JavaScript • React • Next.js • TypeScript
 
